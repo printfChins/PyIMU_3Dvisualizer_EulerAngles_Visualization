@@ -10,7 +10,7 @@ IMU 3D visualizer with Python, OpenGL.
 * pySerial
 * pyOpenGL
 
-* MPU6050
+* MPU6050, LSM6DSO32
 * Microcontroller
 * USB-Serial Converter
 
