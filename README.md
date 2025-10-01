@@ -1,11 +1,9 @@
 # PyIMU_3Dvisualizer
-IMU 3D visualizer with Python, OpenGL and MPU6050
+IMU 3D visualizer with Python, OpenGL.
 
 Note: The "Yaw" mode is not implemented yet.
 
-_Simulador 3D para acelerometro/gyroscopio MPU6050_
-![](https://drive.google.com/file/d/18JTon-cE7GfPPTxVIVwwF35au5Qq_4Sp/view?usp=drive_link)
-## Comenzando 🚀
+![IMU visualizer (Press Esc to exit) 2025-10-01 13-18-48 (online-video-cutter com)](https://github.com/user-attachments/assets/e9acc8d0-24e7-4507-a47b-fd2b2451e7a5)
 
 ### Pre-requisitos 📋
 
