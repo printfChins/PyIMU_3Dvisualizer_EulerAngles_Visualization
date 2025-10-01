@@ -18,7 +18,7 @@ IMU 3D visualizer with Python, OpenGL.
 En la siguiente imagen se muestra el formato de la trama de datos necesarios.
 ![未命名绘图-第 2 页](https://github.com/user-attachments/assets/89f4857d-e2ca-464f-88f7-9775339ec0c9)
 
-<img width="127" height="56" alt="螢幕擷取畫面 2025-10-01 140319" src="https://github.com/user-attachments/assets/1f8691f4-be13-4cad-b14a-9801039c3e99" />
+![IMU visualizer (Press Esc to exit) 2025-10-01 13-18-48 (online-video-cutter com)](https://github.com/user-attachments/assets/f41aa225-4e48-4e2a-bc05-3413c471377d)
 
 ## Author ✒️
 
