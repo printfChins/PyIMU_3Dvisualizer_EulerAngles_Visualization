@@ -1,9 +1,15 @@
+
+https://github.com/user-attachments/assets/a43a2ec0-8c5f-428e-8a3a-e8a9292e4da8
 # PyIMU_3Dvisualizer
 IMU 3D visualizer with Python, OpenGL.
 
 Note: The "Yaw" mode is not implemented yet.
 
 ![IMU visualizer (Press Esc to exit) 2025-10-01 13-18-48 (online-video-cutter com)](https://github.com/user-attachments/assets/e9acc8d0-24e7-4507-a47b-fd2b2451e7a5)
+
+
+https://github.com/user-attachments/assets/3fd5124e-0ca6-4781-b3d8-8f5dd250bbc3
+
 
 ### Pre-requisitos 📋
 
